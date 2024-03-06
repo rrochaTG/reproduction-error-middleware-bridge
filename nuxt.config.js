@@ -45,7 +45,7 @@ export default defineNuxtConfig({
     baseURL: '/',
   },
   app: {
-    baseURL: '/my-app/'
+    baseURL: '/'
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
